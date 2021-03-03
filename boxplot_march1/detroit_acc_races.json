@@ -1,3711 +1,3557 @@
 [
   {
     "index": 0,
-    "num": 24,
+    "num": 16362,
     "accessibility": 2,
-    "race": "white_poverty",
+    "race": "black_poverty",
     "label": "health_acc_score"
   },
   {
     "index": 1,
-    "num": 55,
+    "num": 15323,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 2,
+    "num": 1452,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 3,
+    "num": 1796,
     "accessibility": 2,
     "race": "white_non_poverty",
     "label": "health_acc_score"
   },
   {
-    "index": 2,
-    "num": 306,
+    "index": 4,
+    "num": 18267,
     "accessibility": 3,
     "race": "black_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 3,
-    "num": 2424,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 4,
-    "num": 552,
-    "accessibility": 3,
-    "race": "white_poverty",
     "label": "health_acc_score"
   },
   {
     "index": 5,
-    "num": 4030,
+    "num": 26301,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 6,
+    "num": 2548,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 7,
+    "num": 6659,
     "accessibility": 3,
     "race": "white_non_poverty",
     "label": "health_acc_score"
   },
   {
-    "index": 6,
-    "num": 886,
+    "index": 8,
+    "num": 12721,
     "accessibility": 4,
     "race": "black_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 7,
-    "num": 2785,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 8,
-    "num": 512,
-    "accessibility": 4,
-    "race": "white_poverty",
     "label": "health_acc_score"
   },
   {
     "index": 9,
-    "num": 3030,
+    "num": 17576,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 10,
+    "num": 6006,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 11,
+    "num": 9206,
     "accessibility": 4,
     "race": "white_non_poverty",
     "label": "health_acc_score"
   },
   {
-    "index": 10,
-    "num": 1512,
+    "index": 12,
+    "num": 13432,
     "accessibility": 5,
     "race": "black_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 11,
-    "num": 5463,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 12,
-    "num": 597,
-    "accessibility": 5,
-    "race": "white_poverty",
     "label": "health_acc_score"
   },
   {
     "index": 13,
-    "num": 5058,
+    "num": 19718,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 14,
+    "num": 6647,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 15,
+    "num": 10198,
     "accessibility": 5,
     "race": "white_non_poverty",
     "label": "health_acc_score"
   },
   {
-    "index": 14,
-    "num": 1807,
+    "index": 16,
+    "num": 7078,
     "accessibility": 6,
     "race": "black_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 15,
-    "num": 3860,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 16,
-    "num": 1744,
-    "accessibility": 6,
-    "race": "white_poverty",
     "label": "health_acc_score"
   },
   {
     "index": 17,
-    "num": 6253,
+    "num": 12818,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 18,
+    "num": 6275,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 19,
+    "num": 12410,
     "accessibility": 6,
     "race": "white_non_poverty",
     "label": "health_acc_score"
   },
   {
-    "index": 18,
-    "num": 2591,
+    "index": 20,
+    "num": 7097,
     "accessibility": 7,
     "race": "black_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 19,
-    "num": 8372,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 20,
-    "num": 3714,
-    "accessibility": 7,
-    "race": "white_poverty",
     "label": "health_acc_score"
   },
   {
     "index": 21,
-    "num": 14538,
+    "num": 11730,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 22,
+    "num": 8904,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 23,
+    "num": 11057,
     "accessibility": 7,
     "race": "white_non_poverty",
     "label": "health_acc_score"
   },
   {
-    "index": 22,
-    "num": 4079,
+    "index": 24,
+    "num": 741,
     "accessibility": 8,
     "race": "black_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 23,
-    "num": 8714,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 24,
-    "num": 6707,
-    "accessibility": 8,
-    "race": "white_poverty",
     "label": "health_acc_score"
   },
   {
     "index": 25,
-    "num": 21446,
+    "num": 736,
+    "accessibility": 8,
+    "race": "black_non_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 26,
+    "num": 3227,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "health_acc_score"
+  },
+  {
+    "index": 27,
+    "num": 3480,
     "accessibility": 8,
     "race": "white_non_poverty",
     "label": "health_acc_score"
   },
   {
-    "index": 26,
-    "num": 1919,
+    "index": 28,
+    "num": 379,
     "accessibility": 9,
     "race": "black_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 27,
-    "num": 4252,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 28,
-    "num": 6323,
-    "accessibility": 9,
-    "race": "white_poverty",
     "label": "health_acc_score"
   },
   {
     "index": 29,
-    "num": 33018,
+    "num": 1764,
     "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 30,
-    "num": 3422,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "health_acc_score"
-  },
-  {
-    "index": 31,
-    "num": 7006,
-    "accessibility": 10,
     "race": "black_non_poverty",
     "label": "health_acc_score"
   },
   {
-    "index": 32,
-    "num": 7143,
-    "accessibility": 10,
+    "index": 30,
+    "num": 12,
+    "accessibility": 9,
     "race": "white_poverty",
     "label": "health_acc_score"
   },
   {
-    "index": 33,
-    "num": 52270,
-    "accessibility": 10,
+    "index": 31,
+    "num": 208,
+    "accessibility": 9,
     "race": "white_non_poverty",
     "label": "health_acc_score"
   },
   {
     "index": 0,
-    "num": 54,
+    "num": 17145,
     "accessibility": 2,
     "race": "black_poverty",
     "label": "health2_acc_score"
   },
   {
     "index": 1,
-    "num": 262,
+    "num": 16171,
     "accessibility": 2,
     "race": "black_non_poverty",
     "label": "health2_acc_score"
   },
   {
     "index": 2,
-    "num": 135,
-    "accessibility": 2,
-    "race": "white_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 3,
-    "num": 1042,
-    "accessibility": 2,
-    "race": "white_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 4,
-    "num": 1884,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 5,
-    "num": 7958,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 6,
-    "num": 1305,
-    "accessibility": 3,
-    "race": "white_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 7,
-    "num": 8385,
-    "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 8,
-    "num": 1627,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 9,
-    "num": 5427,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 10,
-    "num": 868,
-    "accessibility": 4,
-    "race": "white_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 11,
-    "num": 6747,
-    "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 12,
-    "num": 2279,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 13,
-    "num": 7832,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 14,
-    "num": 3268,
-    "accessibility": 5,
-    "race": "white_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 15,
-    "num": 13364,
-    "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 16,
-    "num": 2213,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 17,
-    "num": 4009,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 18,
-    "num": 2513,
-    "accessibility": 6,
-    "race": "white_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 19,
-    "num": 6291,
-    "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 20,
-    "num": 1923,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 21,
-    "num": 4591,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 22,
-    "num": 4183,
-    "accessibility": 7,
-    "race": "white_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 23,
-    "num": 11572,
-    "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 24,
-    "num": 2271,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 25,
-    "num": 3598,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 26,
-    "num": 3042,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 27,
-    "num": 13492,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 28,
-    "num": 1214,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 29,
-    "num": 2832,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 30,
-    "num": 4297,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 31,
-    "num": 14606,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 32,
-    "num": 3057,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 33,
-    "num": 6367,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 34,
-    "num": 7705,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 35,
-    "num": 64199,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "health2_acc_score"
-  },
-  {
-    "index": 0,
-    "num": 1192,
-    "accessibility": 2,
-    "race": "black_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 1,
-    "num": 5209,
-    "accessibility": 2,
-    "race": "black_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 2,
-    "num": 1088,
-    "accessibility": 2,
-    "race": "white_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 3,
-    "num": 7115,
-    "accessibility": 2,
-    "race": "white_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 4,
-    "num": 2298,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 5,
-    "num": 8322,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 6,
-    "num": 1202,
-    "accessibility": 3,
-    "race": "white_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 7,
-    "num": 8911,
-    "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 8,
-    "num": 1723,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 9,
-    "num": 5672,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 10,
-    "num": 2987,
-    "accessibility": 4,
-    "race": "white_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 11,
-    "num": 9571,
-    "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 12,
-    "num": 3084,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 13,
-    "num": 6914,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 14,
-    "num": 3408,
-    "accessibility": 5,
-    "race": "white_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 15,
-    "num": 11967,
-    "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 16,
-    "num": 2934,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 17,
-    "num": 5664,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 18,
-    "num": 5153,
-    "accessibility": 6,
-    "race": "white_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 19,
-    "num": 16461,
-    "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 20,
-    "num": 1279,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 21,
-    "num": 2311,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 22,
-    "num": 2458,
-    "accessibility": 7,
-    "race": "white_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 23,
-    "num": 12228,
-    "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 24,
-    "num": 914,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 25,
-    "num": 1891,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 26,
-    "num": 3239,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 27,
-    "num": 9119,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 28,
-    "num": 2423,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 29,
-    "num": 5215,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 30,
-    "num": 5174,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 31,
-    "num": 39796,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 32,
-    "num": 675,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 33,
-    "num": 1678,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 34,
-    "num": 2607,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 35,
-    "num": 24530,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "health2_Monday_score"
-  },
-  {
-    "index": 0,
-    "num": 446,
-    "accessibility": 2,
-    "race": "black_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 1,
-    "num": 3292,
-    "accessibility": 2,
-    "race": "black_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 2,
-    "num": 725,
-    "accessibility": 2,
-    "race": "white_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 3,
-    "num": 5191,
-    "accessibility": 2,
-    "race": "white_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 4,
-    "num": 2496,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 5,
-    "num": 8097,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 6,
-    "num": 1105,
-    "accessibility": 3,
-    "race": "white_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 7,
-    "num": 7370,
-    "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 8,
-    "num": 1428,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 9,
-    "num": 4395,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 10,
-    "num": 1702,
-    "accessibility": 4,
-    "race": "white_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 11,
-    "num": 7244,
-    "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 12,
-    "num": 3687,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 13,
-    "num": 9704,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 14,
-    "num": 4557,
-    "accessibility": 5,
-    "race": "white_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 15,
-    "num": 16024,
-    "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 16,
-    "num": 2551,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 17,
-    "num": 5247,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 18,
-    "num": 4632,
-    "accessibility": 6,
-    "race": "white_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 19,
-    "num": 14351,
-    "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 20,
-    "num": 1643,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 21,
-    "num": 2942,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 22,
-    "num": 2593,
-    "accessibility": 7,
-    "race": "white_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 23,
-    "num": 10713,
-    "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 24,
-    "num": 879,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 25,
-    "num": 1875,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 26,
-    "num": 3394,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 27,
-    "num": 12859,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 28,
-    "num": 2554,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 29,
-    "num": 4836,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 30,
-    "num": 5424,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 31,
-    "num": 32272,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 32,
-    "num": 838,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 33,
-    "num": 2488,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 34,
-    "num": 3184,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 35,
-    "num": 33674,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "health2_compete2_score"
-  },
-  {
-    "index": 0,
-    "num": 446,
-    "accessibility": 2,
-    "race": "black_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 1,
-    "num": 3292,
-    "accessibility": 2,
-    "race": "black_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 2,
-    "num": 725,
-    "accessibility": 2,
-    "race": "white_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 3,
-    "num": 5191,
-    "accessibility": 2,
-    "race": "white_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 4,
-    "num": 2496,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 5,
-    "num": 8097,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 6,
-    "num": 1105,
-    "accessibility": 3,
-    "race": "white_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 7,
-    "num": 7370,
-    "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 8,
-    "num": 1533,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 9,
-    "num": 4653,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 10,
-    "num": 2284,
-    "accessibility": 4,
-    "race": "white_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 11,
-    "num": 8729,
-    "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 12,
-    "num": 3582,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 13,
-    "num": 9446,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 14,
-    "num": 3975,
-    "accessibility": 5,
-    "race": "white_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 15,
-    "num": 14539,
-    "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 16,
-    "num": 2551,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 17,
-    "num": 5247,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 18,
-    "num": 4632,
-    "accessibility": 6,
-    "race": "white_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 19,
-    "num": 14351,
-    "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 20,
-    "num": 1643,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 21,
-    "num": 2942,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 22,
-    "num": 2593,
-    "accessibility": 7,
-    "race": "white_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 23,
-    "num": 10713,
-    "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 24,
-    "num": 879,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 25,
-    "num": 1875,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 26,
-    "num": 3394,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 27,
-    "num": 12859,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 28,
-    "num": 2518,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 29,
-    "num": 4011,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 30,
-    "num": 4820,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 31,
-    "num": 29387,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 32,
-    "num": 874,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 33,
-    "num": 3313,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 34,
-    "num": 3788,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 35,
-    "num": 36559,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "health2_compete1.5_score"
-  },
-  {
-    "index": 0,
-    "num": 54,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 1,
-    "num": 262,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 2,
-    "num": 135,
-    "accessibility": 3,
-    "race": "white_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 3,
-    "num": 1042,
-    "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 4,
-    "num": 1301,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 5,
-    "num": 5849,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 6,
-    "num": 1074,
-    "accessibility": 4,
-    "race": "white_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 7,
-    "num": 7352,
-    "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 8,
-    "num": 1498,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 9,
-    "num": 4699,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 10,
-    "num": 608,
-    "accessibility": 5,
-    "race": "white_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 11,
-    "num": 3861,
-    "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 12,
-    "num": 1081,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 13,
-    "num": 3285,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 14,
-    "num": 1410,
-    "accessibility": 6,
-    "race": "white_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 15,
-    "num": 6329,
-    "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 16,
-    "num": 1672,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 17,
-    "num": 5229,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 18,
     "num": 1614,
-    "accessibility": 7,
-    "race": "white_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 19,
-    "num": 8267,
-    "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 20,
-    "num": 3634,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 21,
-    "num": 7824,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 22,
-    "num": 5241,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 23,
-    "num": 15891,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 24,
-    "num": 3220,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 25,
-    "num": 7398,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 26,
-    "num": 7491,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 27,
-    "num": 29373,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 28,
-    "num": 4062,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 29,
-    "num": 8330,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 30,
-    "num": 9743,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 31,
-    "num": 67583,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "food_acc_score"
-  },
-  {
-    "index": 0,
-    "num": 24,
     "accessibility": 2,
     "race": "white_poverty",
-    "label": "food2_acc_score"
-  },
-  {
-    "index": 1,
-    "num": 55,
-    "accessibility": 2,
-    "race": "white_non_poverty",
-    "label": "food2_acc_score"
-  },
-  {
-    "index": 2,
-    "num": 177,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "food2_acc_score"
+    "label": "health2_acc_score"
   },
   {
     "index": 3,
-    "num": 1012,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "food2_acc_score"
+    "num": 1865,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 4,
-    "num": 438,
+    "num": 18582,
     "accessibility": 3,
-    "race": "white_poverty",
-    "label": "food2_acc_score"
+    "race": "black_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 5,
-    "num": 2824,
+    "num": 26514,
     "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "food2_acc_score"
+    "race": "black_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 6,
-    "num": 1276,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "food2_acc_score"
+    "num": 3366,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 7,
-    "num": 5822,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "food2_acc_score"
+    "num": 7577,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 8,
-    "num": 905,
+    "num": 14327,
     "accessibility": 4,
-    "race": "white_poverty",
-    "label": "food2_acc_score"
+    "race": "black_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 9,
-    "num": 5910,
+    "num": 19311,
     "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "food2_acc_score"
+    "race": "black_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 10,
-    "num": 1474,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "food2_acc_score"
+    "num": 5611,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 11,
-    "num": 4083,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "food2_acc_score"
+    "num": 9315,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 12,
-    "num": 1087,
+    "num": 13781,
     "accessibility": 5,
-    "race": "white_poverty",
-    "label": "food2_acc_score"
+    "race": "black_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 13,
-    "num": 5198,
+    "num": 22287,
     "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "food2_acc_score"
+    "race": "black_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 14,
-    "num": 1086,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "food2_acc_score"
+    "num": 6947,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 15,
-    "num": 3207,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "food2_acc_score"
+    "num": 10781,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 16,
-    "num": 868,
+    "num": 5367,
     "accessibility": 6,
-    "race": "white_poverty",
-    "label": "food2_acc_score"
+    "race": "black_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 17,
-    "num": 4619,
+    "num": 10536,
     "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "food2_acc_score"
+    "race": "black_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 18,
-    "num": 1679,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "food2_acc_score"
+    "num": 7185,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 19,
-    "num": 5514,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "food2_acc_score"
+    "num": 13273,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 20,
-    "num": 2405,
+    "num": 6397,
     "accessibility": 7,
-    "race": "white_poverty",
-    "label": "food2_acc_score"
+    "race": "black_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 21,
-    "num": 9965,
+    "num": 9287,
     "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "food2_acc_score"
+    "race": "black_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 22,
-    "num": 3479,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "food2_acc_score"
+    "num": 9359,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 23,
-    "num": 7290,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "food2_acc_score"
+    "num": 10352,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 24,
-    "num": 4039,
+    "num": 478,
     "accessibility": 8,
-    "race": "white_poverty",
-    "label": "food2_acc_score"
+    "race": "black_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 25,
-    "num": 13627,
+    "num": 1860,
     "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "food2_acc_score"
+    "race": "black_non_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 26,
-    "num": 3206,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "food2_acc_score"
+    "num": 989,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "health2_acc_score"
   },
   {
     "index": 27,
-    "num": 7087,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "food2_acc_score"
-  },
-  {
-    "index": 28,
-    "num": 7428,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "food2_acc_score"
-  },
-  {
-    "index": 29,
-    "num": 32192,
-    "accessibility": 9,
+    "num": 1851,
+    "accessibility": 8,
     "race": "white_non_poverty",
-    "label": "food2_acc_score"
-  },
-  {
-    "index": 30,
-    "num": 4145,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "food2_acc_score"
-  },
-  {
-    "index": 31,
-    "num": 8861,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "food2_acc_score"
-  },
-  {
-    "index": 32,
-    "num": 10122,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "food2_acc_score"
-  },
-  {
-    "index": 33,
-    "num": 65308,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "food2_acc_score"
+    "label": "health2_acc_score"
   },
   {
     "index": 0,
-    "num": 54,
-    "accessibility": 2,
+    "num": 7852,
+    "accessibility": 1,
     "race": "black_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 1,
-    "num": 262,
-    "accessibility": 2,
+    "num": 5257,
+    "accessibility": 1,
     "race": "black_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 2,
-    "num": 135,
-    "accessibility": 2,
+    "num": 473,
+    "accessibility": 1,
     "race": "white_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 3,
-    "num": 1042,
-    "accessibility": 2,
+    "num": 665,
+    "accessibility": 1,
     "race": "white_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 4,
-    "num": 1103,
-    "accessibility": 3,
+    "num": 19659,
+    "accessibility": 2,
     "race": "black_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 5,
-    "num": 4827,
-    "accessibility": 3,
+    "num": 28583,
+    "accessibility": 2,
     "race": "black_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 6,
-    "num": 777,
-    "accessibility": 3,
+    "num": 2787,
+    "accessibility": 2,
     "race": "white_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 7,
-    "num": 5761,
-    "accessibility": 3,
+    "num": 6727,
+    "accessibility": 2,
     "race": "white_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 8,
-    "num": 1997,
-    "accessibility": 4,
+    "num": 17602,
+    "accessibility": 3,
     "race": "black_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 9,
-    "num": 7250,
-    "accessibility": 4,
+    "num": 21184,
+    "accessibility": 3,
     "race": "black_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 10,
-    "num": 1727,
-    "accessibility": 4,
+    "num": 6605,
+    "accessibility": 3,
     "race": "white_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 11,
-    "num": 8844,
-    "accessibility": 4,
+    "num": 9164,
+    "accessibility": 3,
     "race": "white_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 12,
-    "num": 1538,
-    "accessibility": 5,
+    "num": 15419,
+    "accessibility": 4,
     "race": "black_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 13,
-    "num": 3685,
-    "accessibility": 5,
+    "num": 23996,
+    "accessibility": 4,
     "race": "black_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 14,
-    "num": 1672,
-    "accessibility": 5,
+    "num": 6722,
+    "accessibility": 4,
     "race": "white_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 15,
-    "num": 6011,
-    "accessibility": 5,
+    "num": 11344,
+    "accessibility": 4,
     "race": "white_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 16,
-    "num": 1363,
-    "accessibility": 6,
+    "num": 8795,
+    "accessibility": 5,
     "race": "black_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 17,
-    "num": 5615,
-    "accessibility": 6,
+    "num": 15732,
+    "accessibility": 5,
     "race": "black_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 18,
-    "num": 2495,
-    "accessibility": 6,
+    "num": 7583,
+    "accessibility": 5,
     "race": "white_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 19,
-    "num": 10459,
-    "accessibility": 6,
+    "num": 13061,
+    "accessibility": 5,
     "race": "white_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 20,
-    "num": 2878,
-    "accessibility": 7,
+    "num": 6174,
+    "accessibility": 6,
     "race": "black_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 21,
-    "num": 4759,
-    "accessibility": 7,
+    "num": 9192,
+    "accessibility": 6,
     "race": "black_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 22,
-    "num": 2581,
-    "accessibility": 7,
+    "num": 7701,
+    "accessibility": 6,
     "race": "white_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 23,
-    "num": 7856,
-    "accessibility": 7,
+    "num": 10471,
+    "accessibility": 6,
     "race": "white_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 24,
-    "num": 2252,
-    "accessibility": 8,
+    "num": 197,
+    "accessibility": 7,
     "race": "black_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 25,
-    "num": 5742,
-    "accessibility": 8,
+    "num": 258,
+    "accessibility": 7,
     "race": "black_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 26,
-    "num": 5945,
-    "accessibility": 8,
+    "num": 3188,
+    "accessibility": 7,
     "race": "white_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 27,
-    "num": 24016,
-    "accessibility": 8,
+    "num": 3374,
+    "accessibility": 7,
     "race": "white_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 28,
-    "num": 1814,
-    "accessibility": 9,
+    "num": 379,
+    "accessibility": 8,
     "race": "black_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 29,
-    "num": 3845,
-    "accessibility": 9,
+    "num": 1764,
+    "accessibility": 8,
     "race": "black_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 30,
-    "num": 5329,
-    "accessibility": 9,
+    "num": 12,
+    "accessibility": 8,
     "race": "white_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 31,
-    "num": 30876,
-    "accessibility": 9,
+    "num": 208,
+    "accessibility": 8,
     "race": "white_non_poverty",
-    "label": "food2_Monday_score"
-  },
-  {
-    "index": 32,
-    "num": 3523,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "food2_Monday_score"
-  },
-  {
-    "index": 33,
-    "num": 6891,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "food2_Monday_score"
-  },
-  {
-    "index": 34,
-    "num": 6655,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "food2_Monday_score"
-  },
-  {
-    "index": 35,
-    "num": 44833,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "food2_Monday_score"
+    "label": "health2_Monday_score"
   },
   {
     "index": 0,
-    "num": 54,
-    "accessibility": 2,
+    "num": 9169,
+    "accessibility": 1,
     "race": "black_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 1,
-    "num": 262,
-    "accessibility": 2,
+    "num": 6456,
+    "accessibility": 1,
     "race": "black_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 2,
-    "num": 135,
-    "accessibility": 2,
+    "num": 485,
+    "accessibility": 1,
     "race": "white_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 3,
-    "num": 1042,
-    "accessibility": 2,
+    "num": 717,
+    "accessibility": 1,
     "race": "white_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 4,
-    "num": 914,
-    "accessibility": 3,
+    "num": 17846,
+    "accessibility": 2,
     "race": "black_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 5,
-    "num": 4132,
-    "accessibility": 3,
+    "num": 25082,
+    "accessibility": 2,
     "race": "black_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 6,
-    "num": 674,
-    "accessibility": 3,
+    "num": 2711,
+    "accessibility": 2,
     "race": "white_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 7,
-    "num": 5424,
-    "accessibility": 3,
+    "num": 5528,
+    "accessibility": 2,
     "race": "white_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 8,
-    "num": 1959,
-    "accessibility": 4,
+    "num": 20265,
+    "accessibility": 3,
     "race": "black_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 9,
-    "num": 6523,
-    "accessibility": 4,
+    "num": 27535,
+    "accessibility": 3,
     "race": "black_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 10,
-    "num": 1645,
-    "accessibility": 4,
+    "num": 6934,
+    "accessibility": 3,
     "race": "white_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 11,
-    "num": 7521,
-    "accessibility": 4,
+    "num": 11554,
+    "accessibility": 3,
     "race": "white_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 12,
-    "num": 1728,
-    "accessibility": 5,
+    "num": 14596,
+    "accessibility": 4,
     "race": "black_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 13,
-    "num": 3945,
-    "accessibility": 5,
+    "num": 21954,
+    "accessibility": 4,
     "race": "black_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 14,
-    "num": 1637,
-    "accessibility": 5,
+    "num": 6694,
+    "accessibility": 4,
     "race": "white_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 15,
-    "num": 6706,
-    "accessibility": 5,
+    "num": 10968,
+    "accessibility": 4,
     "race": "white_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 16,
-    "num": 1061,
-    "accessibility": 6,
+    "num": 7866,
+    "accessibility": 5,
     "race": "black_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 17,
-    "num": 3667,
-    "accessibility": 6,
+    "num": 15141,
+    "accessibility": 5,
     "race": "black_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 18,
-    "num": 2023,
-    "accessibility": 6,
+    "num": 7453,
+    "accessibility": 5,
     "race": "white_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 19,
-    "num": 5504,
-    "accessibility": 6,
+    "num": 13054,
+    "accessibility": 5,
     "race": "white_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 20,
-    "num": 3217,
-    "accessibility": 7,
+    "num": 5759,
+    "accessibility": 6,
     "race": "black_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 21,
-    "num": 7869,
-    "accessibility": 7,
+    "num": 7776,
+    "accessibility": 6,
     "race": "black_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 22,
-    "num": 3273,
-    "accessibility": 7,
+    "num": 7594,
+    "accessibility": 6,
     "race": "white_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 23,
-    "num": 13776,
-    "accessibility": 7,
+    "num": 9611,
+    "accessibility": 6,
     "race": "white_non_poverty",
-    "label": "food2_compete2_score"
+    "label": "health2_compete2_score"
   },
   {
     "index": 24,
-    "num": 2190,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 25,
-    "num": 4939,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 26,
-    "num": 4993,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 27,
-    "num": 20143,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 28,
-    "num": 1806,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 29,
-    "num": 4434,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 30,
-    "num": 5715,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 31,
-    "num": 27985,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 32,
-    "num": 3593,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 33,
-    "num": 7105,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 34,
-    "num": 7221,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 35,
-    "num": 51597,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "food2_compete2_score"
-  },
-  {
-    "index": 0,
-    "num": 54,
-    "accessibility": 2,
-    "race": "black_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 1,
-    "num": 262,
-    "accessibility": 2,
-    "race": "black_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 2,
-    "num": 135,
-    "accessibility": 2,
-    "race": "white_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 3,
-    "num": 1042,
-    "accessibility": 2,
-    "race": "white_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 4,
-    "num": 914,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 5,
-    "num": 4132,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 6,
-    "num": 674,
-    "accessibility": 3,
-    "race": "white_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 7,
-    "num": 5424,
-    "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 8,
-    "num": 1959,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 9,
-    "num": 6523,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 10,
-    "num": 1645,
-    "accessibility": 4,
-    "race": "white_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 11,
-    "num": 7521,
-    "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 12,
-    "num": 1728,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 13,
-    "num": 3945,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 14,
-    "num": 1637,
-    "accessibility": 5,
-    "race": "white_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 15,
-    "num": 6706,
-    "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 16,
-    "num": 513,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 17,
-    "num": 2105,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 18,
-    "num": 1772,
-    "accessibility": 6,
-    "race": "white_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 19,
-    "num": 4595,
-    "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 20,
-    "num": 3259,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 21,
-    "num": 8163,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 22,
-    "num": 3117,
-    "accessibility": 7,
-    "race": "white_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 23,
-    "num": 14043,
-    "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 24,
-    "num": 2686,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 25,
-    "num": 6186,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 26,
-    "num": 5259,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 27,
-    "num": 20529,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 28,
-    "num": 1784,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 29,
-    "num": 4153,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 30,
-    "num": 5784,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 31,
-    "num": 25558,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 32,
-    "num": 3625,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 33,
-    "num": 7407,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 34,
-    "num": 7293,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 35,
-    "num": 54280,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "food2_compete1.5_score"
-  },
-  {
-    "index": 0,
-    "num": 24,
-    "accessibility": 2,
-    "race": "white_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 1,
-    "num": 55,
-    "accessibility": 2,
-    "race": "white_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 2,
-    "num": 54,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 3,
-    "num": 262,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 4,
-    "num": 111,
-    "accessibility": 3,
-    "race": "white_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 5,
-    "num": 987,
-    "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 6,
-    "num": 1364,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 7,
-    "num": 6452,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 8,
-    "num": 1056,
-    "accessibility": 4,
-    "race": "white_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 9,
-    "num": 7435,
-    "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 10,
-    "num": 1528,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 11,
-    "num": 4917,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 12,
-    "num": 1319,
-    "accessibility": 5,
-    "race": "white_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 13,
-    "num": 6820,
-    "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 14,
-    "num": 1327,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 15,
-    "num": 6236,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 16,
-    "num": 906,
-    "accessibility": 6,
-    "race": "white_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 17,
-    "num": 8124,
-    "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 18,
-    "num": 2664,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 19,
-    "num": 5480,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 20,
-    "num": 3331,
-    "accessibility": 7,
-    "race": "white_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 21,
-    "num": 7506,
-    "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 22,
-    "num": 1328,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 23,
-    "num": 2780,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 24,
-    "num": 2445,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 25,
-    "num": 12901,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 26,
-    "num": 3949,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 27,
-    "num": 7386,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 28,
-    "num": 7162,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 29,
-    "num": 29788,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 30,
-    "num": 4308,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 31,
-    "num": 9363,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 32,
-    "num": 10962,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 33,
-    "num": 66082,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "grocery_acc_score"
-  },
-  {
-    "index": 0,
-    "num": 54,
-    "accessibility": 2,
-    "race": "black_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 1,
-    "num": 262,
-    "accessibility": 2,
-    "race": "black_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 2,
-    "num": 135,
-    "accessibility": 2,
-    "race": "white_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 3,
-    "num": 1042,
-    "accessibility": 2,
-    "race": "white_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 4,
-    "num": 947,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 5,
-    "num": 4726,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 6,
-    "num": 816,
-    "accessibility": 3,
-    "race": "white_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 7,
-    "num": 5567,
-    "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 8,
-    "num": 2265,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 9,
-    "num": 7612,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 10,
-    "num": 1958,
-    "accessibility": 4,
-    "race": "white_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 11,
-    "num": 9902,
-    "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 12,
-    "num": 3269,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 13,
-    "num": 10464,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 14,
-    "num": 3716,
-    "accessibility": 5,
-    "race": "white_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 15,
-    "num": 15382,
-    "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 16,
-    "num": 1236,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 17,
-    "num": 2042,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 18,
-    "num": 1419,
-    "accessibility": 6,
-    "race": "white_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 19,
-    "num": 3685,
-    "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 20,
-    "num": 1566,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 21,
-    "num": 2685,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 22,
-    "num": 3352,
-    "accessibility": 7,
-    "race": "white_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 23,
-    "num": 18403,
-    "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 24,
-    "num": 2611,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 25,
-    "num": 5171,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 26,
-    "num": 4594,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 27,
-    "num": 14942,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 28,
-    "num": 2994,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 29,
-    "num": 5240,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 30,
-    "num": 4899,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 31,
-    "num": 23246,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 32,
-    "num": 1580,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 33,
-    "num": 4674,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 34,
-    "num": 6427,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 35,
-    "num": 47529,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "grocery2_acc_score"
-  },
-  {
-    "index": 0,
-    "num": 1090,
-    "accessibility": 2,
-    "race": "black_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 1,
-    "num": 5454,
-    "accessibility": 2,
-    "race": "black_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 2,
-    "num": 1140,
-    "accessibility": 2,
-    "race": "white_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 3,
-    "num": 6053,
-    "accessibility": 2,
-    "race": "white_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 4,
-    "num": 2157,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 5,
-    "num": 6432,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 6,
-    "num": 1713,
-    "accessibility": 3,
-    "race": "white_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 7,
-    "num": 9148,
-    "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 8,
-    "num": 3305,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 9,
-    "num": 10426,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 10,
-    "num": 4302,
-    "accessibility": 4,
-    "race": "white_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 11,
-    "num": 17911,
-    "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 12,
-    "num": 2689,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 13,
-    "num": 4991,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 14,
-    "num": 3593,
-    "accessibility": 5,
-    "race": "white_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 15,
-    "num": 18123,
-    "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 16,
-    "num": 2767,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 17,
-    "num": 5258,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 18,
-    "num": 4858,
-    "accessibility": 6,
-    "race": "white_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 19,
-    "num": 13513,
-    "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 20,
-    "num": 525,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 21,
-    "num": 1669,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 22,
-    "num": 1758,
-    "accessibility": 7,
-    "race": "white_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 23,
-    "num": 9402,
-    "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 24,
-    "num": 1234,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 25,
-    "num": 2876,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 26,
-    "num": 3664,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 27,
-    "num": 26596,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 28,
-    "num": 2481,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 29,
-    "num": 4864,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 30,
-    "num": 5220,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 31,
-    "num": 31330,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 32,
-    "num": 274,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 33,
-    "num": 906,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 34,
-    "num": 1068,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 35,
-    "num": 7622,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "grocery2_Monday_score"
-  },
-  {
-    "index": 0,
-    "num": 177,
-    "accessibility": 2,
-    "race": "black_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 1,
-    "num": 1012,
-    "accessibility": 2,
-    "race": "black_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 2,
-    "num": 462,
-    "accessibility": 2,
-    "race": "white_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 3,
-    "num": 2879,
-    "accessibility": 2,
-    "race": "white_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 4,
-    "num": 2341,
-    "accessibility": 3,
-    "race": "black_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 5,
-    "num": 8197,
-    "accessibility": 3,
-    "race": "black_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 6,
-    "num": 1901,
-    "accessibility": 3,
-    "race": "white_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 7,
-    "num": 8492,
-    "accessibility": 3,
-    "race": "white_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 8,
-    "num": 2753,
-    "accessibility": 4,
-    "race": "black_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 9,
-    "num": 8080,
-    "accessibility": 4,
-    "race": "black_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 10,
-    "num": 3864,
-    "accessibility": 4,
-    "race": "white_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 11,
-    "num": 14676,
-    "accessibility": 4,
-    "race": "white_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 12,
-    "num": 3080,
-    "accessibility": 5,
-    "race": "black_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 13,
-    "num": 8530,
-    "accessibility": 5,
-    "race": "black_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 14,
-    "num": 2424,
-    "accessibility": 5,
-    "race": "white_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 15,
-    "num": 12915,
-    "accessibility": 5,
-    "race": "white_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 16,
-    "num": 2715,
-    "accessibility": 6,
-    "race": "black_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 17,
-    "num": 5469,
-    "accessibility": 6,
-    "race": "black_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 18,
-    "num": 6110,
-    "accessibility": 6,
-    "race": "white_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 19,
-    "num": 21759,
-    "accessibility": 6,
-    "race": "white_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 20,
-    "num": 1455,
-    "accessibility": 7,
-    "race": "black_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 21,
-    "num": 2555,
-    "accessibility": 7,
-    "race": "black_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 22,
-    "num": 2321,
-    "accessibility": 7,
-    "race": "white_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 23,
-    "num": 10180,
-    "accessibility": 7,
-    "race": "white_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 24,
-    "num": 778,
-    "accessibility": 8,
-    "race": "black_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 25,
-    "num": 2316,
-    "accessibility": 8,
-    "race": "black_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 26,
-    "num": 2656,
-    "accessibility": 8,
-    "race": "white_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 27,
-    "num": 18699,
-    "accessibility": 8,
-    "race": "white_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 28,
-    "num": 2780,
-    "accessibility": 9,
-    "race": "black_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 29,
-    "num": 5272,
-    "accessibility": 9,
-    "race": "black_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 30,
-    "num": 5640,
-    "accessibility": 9,
-    "race": "white_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 31,
-    "num": 35301,
-    "accessibility": 9,
-    "race": "white_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 32,
-    "num": 443,
-    "accessibility": 10,
-    "race": "black_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 33,
-    "num": 1445,
-    "accessibility": 10,
-    "race": "black_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 34,
-    "num": 1938,
-    "accessibility": 10,
-    "race": "white_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 35,
-    "num": 14797,
-    "accessibility": 10,
-    "race": "white_non_poverty",
-    "label": "grocery2_compete2_score"
-  },
-  {
-    "index": 0,
-    "num": 306,
-    "accessibility": 2,
-    "race": "black_poverty",
-    "label": "grocery2_compete1.5_score"
-  },
-  {
-    "index": 1,
-    "num": 2424,
-    "accessibility": 2,
-    "race": "black_non_poverty",
-    "label": "grocery2_compete1.5_score"
-  },
-  {
-    "index": 2,
     "num": 576,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "health2_compete2_score"
+  },
+  {
+    "index": 25,
+    "num": 2022,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "health2_compete2_score"
+  },
+  {
+    "index": 26,
+    "num": 3200,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "health2_compete2_score"
+  },
+  {
+    "index": 27,
+    "num": 3582,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "health2_compete2_score"
+  },
+  {
+    "index": 0,
+    "num": 9169,
+    "accessibility": 1,
+    "race": "black_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 1,
+    "num": 6456,
+    "accessibility": 1,
+    "race": "black_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 2,
+    "num": 485,
+    "accessibility": 1,
+    "race": "white_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 3,
+    "num": 717,
+    "accessibility": 1,
+    "race": "white_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 4,
+    "num": 22311,
     "accessibility": 2,
+    "race": "black_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 5,
+    "num": 31292,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 6,
+    "num": 3048,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 7,
+    "num": 7133,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 8,
+    "num": 17026,
+    "accessibility": 3,
+    "race": "black_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 9,
+    "num": 22786,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 10,
+    "num": 6645,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 11,
+    "num": 10052,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 12,
+    "num": 15533,
+    "accessibility": 4,
+    "race": "black_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 13,
+    "num": 23059,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 14,
+    "num": 7580,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 15,
+    "num": 12320,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 16,
+    "num": 6370,
+    "accessibility": 5,
+    "race": "black_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 17,
+    "num": 13618,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 18,
+    "num": 7191,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 19,
+    "num": 12957,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 20,
+    "num": 5190,
+    "accessibility": 6,
+    "race": "black_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 21,
+    "num": 6895,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 22,
+    "num": 9133,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 23,
+    "num": 9984,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 24,
+    "num": 478,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 25,
+    "num": 1860,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 26,
+    "num": 989,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 27,
+    "num": 1851,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "health2_compete1.5_score"
+  },
+  {
+    "index": 0,
+    "num": 10855,
+    "accessibility": 2,
+    "race": "black_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 1,
+    "num": 7318,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 2,
+    "num": 490,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 3,
+    "num": 702,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 4,
+    "num": 10949,
+    "accessibility": 3,
+    "race": "black_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 5,
+    "num": 16874,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 6,
+    "num": 1691,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 7,
+    "num": 3496,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 8,
+    "num": 14441,
+    "accessibility": 4,
+    "race": "black_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 9,
+    "num": 18696,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 10,
+    "num": 1535,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 11,
+    "num": 3857,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 12,
+    "num": 9108,
+    "accessibility": 5,
+    "race": "black_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 13,
+    "num": 11831,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 14,
+    "num": 5614,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 15,
+    "num": 6971,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 16,
+    "num": 12465,
+    "accessibility": 6,
+    "race": "black_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 17,
+    "num": 19558,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 18,
+    "num": 1880,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 19,
+    "num": 4551,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 20,
+    "num": 5246,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 21,
+    "num": 8476,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 22,
+    "num": 6244,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 23,
+    "num": 9193,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 24,
+    "num": 7066,
+    "accessibility": 8,
+    "race": "black_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 25,
+    "num": 10338,
+    "accessibility": 8,
+    "race": "black_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 26,
+    "num": 6635,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 27,
+    "num": 10559,
+    "accessibility": 8,
+    "race": "white_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 28,
+    "num": 5322,
+    "accessibility": 9,
+    "race": "black_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 29,
+    "num": 10134,
+    "accessibility": 9,
+    "race": "black_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 30,
+    "num": 6307,
+    "accessibility": 9,
+    "race": "white_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 31,
+    "num": 10904,
+    "accessibility": 9,
+    "race": "white_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 32,
+    "num": 625,
+    "accessibility": 10,
+    "race": "black_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 33,
+    "num": 2741,
+    "accessibility": 10,
+    "race": "black_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 34,
+    "num": 4675,
+    "accessibility": 10,
+    "race": "white_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 35,
+    "num": 4781,
+    "accessibility": 10,
+    "race": "white_non_poverty",
+    "label": "food_acc_score"
+  },
+  {
+    "index": 0,
+    "num": 12235,
+    "accessibility": 2,
+    "race": "black_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 1,
+    "num": 10595,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 2,
+    "num": 612,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 3,
+    "num": 763,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 4,
+    "num": 10927,
+    "accessibility": 3,
+    "race": "black_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 5,
+    "num": 15020,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 6,
+    "num": 2183,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 7,
+    "num": 3685,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 8,
+    "num": 14062,
+    "accessibility": 4,
+    "race": "black_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 9,
+    "num": 18577,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 10,
+    "num": 1198,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 11,
+    "num": 3941,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 12,
+    "num": 12657,
+    "accessibility": 5,
+    "race": "black_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 13,
+    "num": 15280,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 14,
+    "num": 5781,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 15,
+    "num": 7764,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 16,
+    "num": 10932,
+    "accessibility": 6,
+    "race": "black_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 17,
+    "num": 19636,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 18,
+    "num": 2085,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 19,
+    "num": 6511,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 20,
+    "num": 5500,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 21,
+    "num": 9719,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 22,
+    "num": 6023,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 23,
+    "num": 6834,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 24,
+    "num": 8356,
+    "accessibility": 8,
+    "race": "black_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 25,
+    "num": 13072,
+    "accessibility": 8,
+    "race": "black_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 26,
+    "num": 8405,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 27,
+    "num": 13911,
+    "accessibility": 8,
+    "race": "white_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 28,
+    "num": 899,
+    "accessibility": 9,
+    "race": "black_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 29,
+    "num": 2045,
+    "accessibility": 9,
+    "race": "black_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 30,
+    "num": 7674,
+    "accessibility": 9,
+    "race": "white_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 31,
+    "num": 9754,
+    "accessibility": 9,
+    "race": "white_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 32,
+    "num": 509,
+    "accessibility": 10,
+    "race": "black_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 33,
+    "num": 2022,
+    "accessibility": 10,
+    "race": "black_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 34,
+    "num": 1110,
+    "accessibility": 10,
+    "race": "white_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 35,
+    "num": 1851,
+    "accessibility": 10,
+    "race": "white_non_poverty",
+    "label": "food2_acc_score"
+  },
+  {
+    "index": 0,
+    "num": 4311,
+    "accessibility": 1,
+    "race": "black_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 1,
+    "num": 2549,
+    "accessibility": 1,
+    "race": "black_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 2,
+    "num": 213,
+    "accessibility": 1,
+    "race": "white_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 3,
+    "num": 412,
+    "accessibility": 1,
+    "race": "white_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 4,
+    "num": 17362,
+    "accessibility": 2,
+    "race": "black_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 5,
+    "num": 21351,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 6,
+    "num": 1632,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 7,
+    "num": 3064,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 8,
+    "num": 16498,
+    "accessibility": 3,
+    "race": "black_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 9,
+    "num": 21671,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 10,
+    "num": 2239,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 11,
+    "num": 4954,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 12,
+    "num": 16394,
+    "accessibility": 4,
+    "race": "black_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 13,
+    "num": 22338,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 14,
+    "num": 6492,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 15,
+    "num": 9112,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 16,
+    "num": 7867,
+    "accessibility": 5,
+    "race": "black_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 17,
+    "num": 14107,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 18,
+    "num": 3366,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 19,
+    "num": 4622,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 20,
+    "num": 6081,
+    "accessibility": 6,
+    "race": "black_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 21,
+    "num": 9202,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 22,
+    "num": 5091,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 23,
+    "num": 9913,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 24,
+    "num": 6186,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 25,
+    "num": 10733,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 26,
+    "num": 7522,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 27,
+    "num": 12348,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 28,
+    "num": 802,
+    "accessibility": 8,
+    "race": "black_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 29,
+    "num": 1993,
+    "accessibility": 8,
+    "race": "black_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 30,
+    "num": 5316,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 31,
+    "num": 7007,
+    "accessibility": 8,
+    "race": "white_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 32,
+    "num": 576,
+    "accessibility": 9,
+    "race": "black_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 33,
+    "num": 2022,
+    "accessibility": 9,
+    "race": "black_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 34,
+    "num": 3200,
+    "accessibility": 9,
+    "race": "white_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 35,
+    "num": 3582,
+    "accessibility": 9,
+    "race": "white_non_poverty",
+    "label": "food2_Monday_score"
+  },
+  {
+    "index": 0,
+    "num": 9679,
+    "accessibility": 1,
+    "race": "black_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 1,
+    "num": 7430,
+    "accessibility": 1,
+    "race": "black_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 2,
+    "num": 492,
+    "accessibility": 1,
+    "race": "white_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 3,
+    "num": 719,
+    "accessibility": 1,
+    "race": "white_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 4,
+    "num": 17185,
+    "accessibility": 2,
+    "race": "black_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 5,
+    "num": 24837,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 6,
+    "num": 2203,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 7,
+    "num": 4406,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 8,
+    "num": 17697,
+    "accessibility": 3,
+    "race": "black_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 9,
+    "num": 21876,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 10,
+    "num": 4154,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 11,
+    "num": 7943,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 12,
+    "num": 16206,
+    "accessibility": 4,
+    "race": "black_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 13,
+    "num": 24376,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 14,
+    "num": 4694,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 15,
+    "num": 7328,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 16,
+    "num": 7026,
+    "accessibility": 5,
+    "race": "black_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 17,
+    "num": 13473,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 18,
+    "num": 6908,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 19,
+    "num": 11863,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 20,
+    "num": 6876,
+    "accessibility": 6,
+    "race": "black_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 21,
+    "num": 9907,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 22,
+    "num": 7836,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 23,
+    "num": 11150,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 24,
+    "num": 821,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 25,
+    "num": 2007,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 26,
+    "num": 4137,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 27,
+    "num": 7345,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 28,
+    "num": 208,
+    "accessibility": 8,
+    "race": "black_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 29,
+    "num": 296,
+    "accessibility": 8,
+    "race": "black_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 30,
+    "num": 4635,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 31,
+    "num": 4052,
+    "accessibility": 8,
+    "race": "white_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 32,
+    "num": 379,
+    "accessibility": 9,
+    "race": "black_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 33,
+    "num": 1764,
+    "accessibility": 9,
+    "race": "black_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 34,
+    "num": 12,
+    "accessibility": 9,
+    "race": "white_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 35,
+    "num": 208,
+    "accessibility": 9,
+    "race": "white_non_poverty",
+    "label": "food2_compete2_score"
+  },
+  {
+    "index": 0,
+    "num": 10691,
+    "accessibility": 1,
+    "race": "black_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 1,
+    "num": 9752,
+    "accessibility": 1,
+    "race": "black_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 2,
+    "num": 602,
+    "accessibility": 1,
+    "race": "white_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 3,
+    "num": 732,
+    "accessibility": 1,
+    "race": "white_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 4,
+    "num": 18084,
+    "accessibility": 2,
+    "race": "black_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 5,
+    "num": 23613,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 6,
+    "num": 2670,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 7,
+    "num": 5525,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 8,
+    "num": 17126,
+    "accessibility": 3,
+    "race": "black_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 9,
+    "num": 22167,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 10,
+    "num": 4576,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 11,
+    "num": 7844,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 12,
+    "num": 16531,
+    "accessibility": 4,
+    "race": "black_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 13,
+    "num": 26534,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 14,
+    "num": 6161,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 15,
+    "num": 8145,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 16,
+    "num": 7002,
+    "accessibility": 5,
+    "race": "black_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 17,
+    "num": 12755,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 18,
+    "num": 6502,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 19,
+    "num": 13789,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 20,
+    "num": 5265,
+    "accessibility": 6,
+    "race": "black_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 21,
+    "num": 7130,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 22,
+    "num": 6044,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 23,
+    "num": 8390,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 24,
+    "num": 791,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 25,
+    "num": 1955,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 26,
+    "num": 3869,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 27,
+    "num": 6329,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 28,
+    "num": 587,
+    "accessibility": 8,
+    "race": "black_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 29,
+    "num": 2060,
+    "accessibility": 8,
+    "race": "black_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 30,
+    "num": 4647,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 31,
+    "num": 4260,
+    "accessibility": 8,
+    "race": "white_non_poverty",
+    "label": "food2_compete1.5_score"
+  },
+  {
+    "index": 0,
+    "num": 9311,
+    "accessibility": 2,
+    "race": "black_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 1,
+    "num": 6475,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 2,
+    "num": 480,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 3,
+    "num": 671,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 4,
+    "num": 12365,
+    "accessibility": 3,
+    "race": "black_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 5,
+    "num": 17447,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 6,
+    "num": 1387,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 7,
+    "num": 2826,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 8,
+    "num": 13879,
+    "accessibility": 4,
+    "race": "black_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 9,
+    "num": 17975,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 10,
+    "num": 1792,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 11,
+    "num": 4546,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 12,
+    "num": 6844,
+    "accessibility": 5,
+    "race": "black_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 13,
+    "num": 8297,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 14,
+    "num": 2484,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 15,
+    "num": 4095,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 16,
+    "num": 12067,
+    "accessibility": 6,
+    "race": "black_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 17,
+    "num": 18272,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 18,
+    "num": 4156,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 19,
+    "num": 6068,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 20,
+    "num": 8109,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 21,
+    "num": 13814,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 22,
+    "num": 3481,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 23,
+    "num": 5826,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 24,
+    "num": 6516,
+    "accessibility": 8,
+    "race": "black_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 25,
+    "num": 9789,
+    "accessibility": 8,
+    "race": "black_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 26,
+    "num": 8411,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 27,
+    "num": 12712,
+    "accessibility": 8,
+    "race": "white_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 28,
+    "num": 6363,
+    "accessibility": 9,
+    "race": "black_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 29,
+    "num": 11734,
+    "accessibility": 9,
+    "race": "black_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 30,
+    "num": 8160,
+    "accessibility": 9,
+    "race": "white_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 31,
+    "num": 13748,
+    "accessibility": 9,
+    "race": "white_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 32,
+    "num": 623,
+    "accessibility": 10,
+    "race": "black_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 33,
+    "num": 2163,
+    "accessibility": 10,
+    "race": "black_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 34,
+    "num": 4720,
+    "accessibility": 10,
+    "race": "white_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 35,
+    "num": 4522,
+    "accessibility": 10,
+    "race": "white_non_poverty",
+    "label": "grocery_acc_score"
+  },
+  {
+    "index": 0,
+    "num": 10345,
+    "accessibility": 2,
+    "race": "black_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 1,
+    "num": 6344,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 2,
+    "num": 483,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 3,
+    "num": 700,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 4,
+    "num": 11459,
+    "accessibility": 3,
+    "race": "black_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 5,
+    "num": 17848,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 6,
+    "num": 1698,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 7,
+    "num": 3498,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 8,
+    "num": 11730,
+    "accessibility": 4,
+    "race": "black_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 9,
+    "num": 16455,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 10,
+    "num": 1273,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 11,
+    "num": 3255,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 12,
+    "num": 10359,
+    "accessibility": 5,
+    "race": "black_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 13,
+    "num": 11863,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 14,
+    "num": 4270,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 15,
+    "num": 5749,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 16,
+    "num": 10984,
+    "accessibility": 6,
+    "race": "black_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 17,
+    "num": 15572,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 18,
+    "num": 2451,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 19,
+    "num": 3983,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 20,
+    "num": 7717,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 21,
+    "num": 14293,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 22,
+    "num": 6388,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 23,
+    "num": 10236,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 24,
+    "num": 6497,
+    "accessibility": 8,
+    "race": "black_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 25,
+    "num": 9694,
+    "accessibility": 8,
+    "race": "black_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 26,
+    "num": 5628,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 27,
+    "num": 9323,
+    "accessibility": 8,
+    "race": "white_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 28,
+    "num": 6392,
+    "accessibility": 9,
+    "race": "black_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 29,
+    "num": 11053,
+    "accessibility": 9,
+    "race": "black_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 30,
+    "num": 10222,
+    "accessibility": 9,
+    "race": "white_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 31,
+    "num": 14958,
+    "accessibility": 9,
+    "race": "white_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 32,
+    "num": 594,
+    "accessibility": 10,
+    "race": "black_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 33,
+    "num": 2844,
+    "accessibility": 10,
+    "race": "black_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 34,
+    "num": 2658,
+    "accessibility": 10,
+    "race": "white_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 35,
+    "num": 3312,
+    "accessibility": 10,
+    "race": "white_non_poverty",
+    "label": "grocery2_acc_score"
+  },
+  {
+    "index": 0,
+    "num": 4311,
+    "accessibility": 1,
+    "race": "black_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 1,
+    "num": 2549,
+    "accessibility": 1,
+    "race": "black_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 2,
+    "num": 213,
+    "accessibility": 1,
+    "race": "white_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 3,
+    "num": 412,
+    "accessibility": 1,
+    "race": "white_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 4,
+    "num": 16429,
+    "accessibility": 2,
+    "race": "black_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 5,
+    "num": 19409,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 6,
+    "num": 1588,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 7,
+    "num": 2864,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 8,
+    "num": 15902,
+    "accessibility": 3,
+    "race": "black_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 9,
+    "num": 20856,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 10,
+    "num": 1929,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 11,
+    "num": 4824,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 12,
+    "num": 10971,
+    "accessibility": 4,
+    "race": "black_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 13,
+    "num": 14127,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 14,
+    "num": 5872,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 15,
+    "num": 7812,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 16,
+    "num": 11167,
+    "accessibility": 5,
+    "race": "black_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 17,
+    "num": 18624,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 18,
+    "num": 1636,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 19,
+    "num": 3690,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 20,
+    "num": 6074,
+    "accessibility": 6,
+    "race": "black_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 21,
+    "num": 10360,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 22,
+    "num": 6120,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 23,
+    "num": 8556,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 24,
+    "num": 8935,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 25,
+    "num": 13712,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 26,
+    "num": 7236,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 27,
+    "num": 12632,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 28,
+    "num": 1510,
+    "accessibility": 8,
+    "race": "black_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 29,
+    "num": 3002,
+    "accessibility": 8,
+    "race": "black_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 30,
+    "num": 5701,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 31,
+    "num": 9096,
+    "accessibility": 8,
+    "race": "white_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 32,
+    "num": 300,
+    "accessibility": 9,
+    "race": "black_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 33,
+    "num": 1467,
+    "accessibility": 9,
+    "race": "black_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 34,
+    "num": 3787,
+    "accessibility": 9,
+    "race": "white_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 35,
+    "num": 3277,
+    "accessibility": 9,
+    "race": "white_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 36,
+    "num": 478,
+    "accessibility": 10,
+    "race": "black_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 37,
+    "num": 1860,
+    "accessibility": 10,
+    "race": "black_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 38,
+    "num": 989,
+    "accessibility": 10,
+    "race": "white_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 39,
+    "num": 1851,
+    "accessibility": 10,
+    "race": "white_non_poverty",
+    "label": "grocery2_Monday_score"
+  },
+  {
+    "index": 0,
+    "num": 7259,
+    "accessibility": 1,
+    "race": "black_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 1,
+    "num": 4678,
+    "accessibility": 1,
+    "race": "black_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 2,
+    "num": 455,
+    "accessibility": 1,
+    "race": "white_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 3,
+    "num": 584,
+    "accessibility": 1,
+    "race": "white_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 4,
+    "num": 17614,
+    "accessibility": 2,
+    "race": "black_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 5,
+    "num": 23553,
+    "accessibility": 2,
+    "race": "black_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 6,
+    "num": 2063,
+    "accessibility": 2,
+    "race": "white_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 7,
+    "num": 3263,
+    "accessibility": 2,
+    "race": "white_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 8,
+    "num": 16490,
+    "accessibility": 3,
+    "race": "black_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 9,
+    "num": 20476,
+    "accessibility": 3,
+    "race": "black_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 10,
+    "num": 2373,
+    "accessibility": 3,
+    "race": "white_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 11,
+    "num": 6610,
+    "accessibility": 3,
+    "race": "white_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 12,
+    "num": 16131,
+    "accessibility": 4,
+    "race": "black_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 13,
+    "num": 22881,
+    "accessibility": 4,
+    "race": "black_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 14,
+    "num": 6230,
+    "accessibility": 4,
+    "race": "white_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 15,
+    "num": 9251,
+    "accessibility": 4,
+    "race": "white_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 16,
+    "num": 4971,
+    "accessibility": 5,
+    "race": "black_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 17,
+    "num": 11010,
+    "accessibility": 5,
+    "race": "black_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 18,
+    "num": 5780,
+    "accessibility": 5,
+    "race": "white_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 19,
+    "num": 7696,
+    "accessibility": 5,
+    "race": "white_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 20,
+    "num": 7278,
+    "accessibility": 6,
+    "race": "black_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 21,
+    "num": 11960,
+    "accessibility": 6,
+    "race": "black_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 22,
+    "num": 5959,
+    "accessibility": 6,
+    "race": "white_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 23,
+    "num": 11628,
+    "accessibility": 6,
+    "race": "white_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 24,
+    "num": 4956,
+    "accessibility": 7,
+    "race": "black_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 25,
+    "num": 7393,
+    "accessibility": 7,
+    "race": "black_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 26,
+    "num": 3695,
+    "accessibility": 7,
+    "race": "white_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 27,
+    "num": 5393,
+    "accessibility": 7,
+    "race": "white_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 28,
+    "num": 869,
+    "accessibility": 8,
+    "race": "black_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 29,
+    "num": 1993,
+    "accessibility": 8,
+    "race": "black_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 30,
+    "num": 7406,
+    "accessibility": 8,
+    "race": "white_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 31,
+    "num": 8738,
+    "accessibility": 8,
+    "race": "white_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 32,
+    "num": 509,
+    "accessibility": 9,
+    "race": "black_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 33,
+    "num": 2022,
+    "accessibility": 9,
+    "race": "black_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 34,
+    "num": 1110,
+    "accessibility": 9,
+    "race": "white_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 35,
+    "num": 1851,
+    "accessibility": 9,
+    "race": "white_non_poverty",
+    "label": "grocery2_compete2_score"
+  },
+  {
+    "index": 0,
+    "num": 8801,
+    "accessibility": 1,
+    "race": "black_poverty",
+    "label": "grocery2_compete1.5_score"
+  },
+  {
+    "index": 1,
+    "num": 5501,
+    "accessibility": 1,
+    "race": "black_non_poverty",
+    "label": "grocery2_compete1.5_score"
+  },
+  {
+    "index": 2,
+    "num": 473,
+    "accessibility": 1,
     "race": "white_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 3,
-    "num": 4085,
-    "accessibility": 2,
+    "num": 669,
+    "accessibility": 1,
     "race": "white_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 4,
-    "num": 2212,
-    "accessibility": 3,
+    "num": 17377,
+    "accessibility": 2,
     "race": "black_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 5,
-    "num": 6785,
-    "accessibility": 3,
+    "num": 24725,
+    "accessibility": 2,
     "race": "black_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 6,
-    "num": 1787,
-    "accessibility": 3,
+    "num": 2443,
+    "accessibility": 2,
     "race": "white_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 7,
-    "num": 7286,
-    "accessibility": 3,
+    "num": 4290,
+    "accessibility": 2,
     "race": "white_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 8,
-    "num": 2753,
-    "accessibility": 4,
+    "num": 18383,
+    "accessibility": 3,
     "race": "black_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 9,
-    "num": 8080,
-    "accessibility": 4,
+    "num": 23917,
+    "accessibility": 3,
     "race": "black_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 10,
-    "num": 3864,
-    "accessibility": 4,
+    "num": 3933,
+    "accessibility": 3,
     "race": "white_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 11,
-    "num": 14676,
-    "accessibility": 4,
+    "num": 8109,
+    "accessibility": 3,
     "race": "white_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 12,
-    "num": 3080,
-    "accessibility": 5,
+    "num": 15279,
+    "accessibility": 4,
     "race": "black_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 13,
-    "num": 8530,
-    "accessibility": 5,
+    "num": 22884,
+    "accessibility": 4,
     "race": "black_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 14,
-    "num": 2424,
-    "accessibility": 5,
+    "num": 4547,
+    "accessibility": 4,
     "race": "white_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 15,
-    "num": 12915,
-    "accessibility": 5,
+    "num": 7079,
+    "accessibility": 4,
     "race": "white_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 16,
-    "num": 2576,
-    "accessibility": 6,
+    "num": 6966,
+    "accessibility": 5,
     "race": "black_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 17,
-    "num": 5204,
-    "accessibility": 6,
+    "num": 10997,
+    "accessibility": 5,
     "race": "black_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 18,
-    "num": 6034,
-    "accessibility": 6,
+    "num": 6762,
+    "accessibility": 5,
     "race": "white_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 19,
-    "num": 21226,
-    "accessibility": 6,
+    "num": 10531,
+    "accessibility": 5,
     "race": "white_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 20,
-    "num": 1505,
-    "accessibility": 7,
+    "num": 7491,
+    "accessibility": 6,
     "race": "black_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 21,
-    "num": 2405,
-    "accessibility": 7,
+    "num": 13221,
+    "accessibility": 6,
     "race": "black_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 22,
-    "num": 2248,
-    "accessibility": 7,
+    "num": 6762,
+    "accessibility": 6,
     "race": "white_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 23,
-    "num": 10239,
-    "accessibility": 7,
+    "num": 11868,
+    "accessibility": 6,
     "race": "white_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 24,
-    "num": 867,
-    "accessibility": 8,
+    "num": 1148,
+    "accessibility": 7,
     "race": "black_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 25,
-    "num": 2731,
-    "accessibility": 8,
+    "num": 2556,
+    "accessibility": 7,
     "race": "black_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 26,
-    "num": 2805,
-    "accessibility": 8,
+    "num": 3332,
+    "accessibility": 7,
     "race": "white_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 27,
-    "num": 19173,
-    "accessibility": 8,
+    "num": 4808,
+    "accessibility": 7,
     "race": "white_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 28,
-    "num": 2740,
-    "accessibility": 9,
+    "num": 253,
+    "accessibility": 8,
     "race": "black_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 29,
-    "num": 5137,
-    "accessibility": 9,
+    "num": 401,
+    "accessibility": 8,
     "race": "black_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 30,
-    "num": 5547,
-    "accessibility": 9,
+    "num": 6807,
+    "accessibility": 8,
     "race": "white_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 31,
-    "num": 33772,
-    "accessibility": 9,
+    "num": 7452,
+    "accessibility": 8,
     "race": "white_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 32,
-    "num": 483,
-    "accessibility": 10,
+    "num": 379,
+    "accessibility": 9,
     "race": "black_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 33,
-    "num": 1580,
-    "accessibility": 10,
+    "num": 1764,
+    "accessibility": 9,
     "race": "black_non_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 34,
-    "num": 2031,
-    "accessibility": 10,
+    "num": 12,
+    "accessibility": 9,
     "race": "white_poverty",
     "label": "grocery2_compete1.5_score"
   },
   {
     "index": 35,
-    "num": 16326,
-    "accessibility": 10,
+    "num": 208,
+    "accessibility": 9,
     "race": "white_non_poverty",
     "label": "grocery2_compete1.5_score"
   }
